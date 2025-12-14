@@ -1,8 +1,39 @@
-# music_player
-
+# 🎵 Music Player
 A new Flutter project.
 
 ## Getting Started
+
+
+Music Player is a Flutter application that demonstrates a simple audio player UI and basic music playback features.  
+This project focuses on UI design and audio handling using Flutter.
+
+---
+
+## 🚀 Features
+
+- Music list UI
+- Play / pause functionality
+- Clean and simple design
+- Beginner-friendly Flutter project
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Audio Player package
+
+---
+
+## ▶️ Run the Project
+
+```bash
+git clone https://github.com/likhonahamedla/Music-Player.git
+cd Music-Player
+flutter pub get
+flutter run
+
 
 This project is a starting point for a Flutter application.
 ![image alt](https://github.com/likhonahamedla/Music-Player/blob/1602fc2a3b7540b3330fa6db26a562fac7d4aace/Screenshot_20251128_223602.png)
