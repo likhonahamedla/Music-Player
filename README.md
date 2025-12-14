@@ -14,7 +14,7 @@ This project focuses on UI design and audio handling using Flutter.
 - Music list UI
 - Play / pause functionality
 - Clean and simple design
-- Beginner-friendly Flutter project
+
 
 ---
 
@@ -23,6 +23,7 @@ This project focuses on UI design and audio handling using Flutter.
 - Flutter
 - Dart
 - Audio Player package
+-  API
 ![image alt](https://github.com/likhonahamedla/Music-Player/blob/3445eb9abf18fa1c0e395986c9dac02f13eb660d/Screenshot_20251128_223602.png)
 ---
 
